@@ -2,12 +2,12 @@ require 'discordrb'
 require "csv"
 
         bot1 = Discordrb::Commands::CommandBot.new(
-            token: "NzM1Nzg5NzU2NzgwMzgwMTYw.XxlXnA.LM6IDuzvBeLEhzkO5LGxbe2TW_M",
+            token: "NzM1Nzg5NzU2NzgwMzgwMTYw.XxlXnA.F54eYszwyFDEI0U0EhEXvFbx6jk",
             client_id: 735789756780380160,
             prefix: ".",
         )
         bot2 = Discordrb::Commands::CommandBot.new(
-            token: "NzM5MDc5MTczOTI2Mjg5NDc4.XyVPHg.I3PASsSl8RutafaVEP3cobpxF74",
+            token: "NzM5MDc5MTczOTI2Mjg5NDc4.XyVPHg.YIi8VaKNWPUXmyuPTmKemc00S2o",
             client_id: 739079173926289478,
             prefix: "!",
         )
